@@ -1,0 +1,27 @@
+hibernate
+1.add all dependencies
+	->spring core 
+	->spring orm
+	->hibernate core
+	->hibernate jpa
+	->h2 database
+	->commons
+2.add aplication contex xml
+3.intergrated it with web xml
+4.basic stepsuse for db connection
+	desition 
+
+1.load the database server
+2.establish the connection with the data base
+3.creat sql state ments
+4.handle sql exceptions
+
+
+field mailtainance of the project is known as bissnus data
+object relational mapping -ORM
+mapping for database ,secction factory bean is used
+transation manager ----insert ,delet ,edit sql process
+everything is a class
+
+transation anno taion is used for only @ transation
+mvc dose not support annotation

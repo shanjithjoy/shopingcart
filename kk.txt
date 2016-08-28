@@ -1,0 +1,58 @@
+
+<div id="section41" class="container-fluid">
+  <h1>key board</h1>
+  <img src="H:/music/src/main/resources/images2/a1.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+  <img src="H:/music/src/main/webapp/images/K2.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236"></img>
+  <img src="H:/music/src/main/webapp/images/K2.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236"></img>
+<img src="H:/music/src/main/webapp/images/K3.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236"></img><br><br>
+<button type="button" class="btn btn-primary">more..</button>
+</div>
+
+<div id="section42" class="container-fluid">
+  <h1>guitar</h1>
+   <img src="H:/music/src/main/webapp/images/a23.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+ <img src="H:/music/src/main/webapp/images/b3.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+ <img src="H:/music/src/main/webapp/images/c2.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+ <img src="H:/music/src/main/webapp/images/c4.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+<br><br>
+<button type="button" class="btn btn-primary">more..</button>
+</div>
+<div id="section43" class="container-fluid">
+  <h1>violine</h1>
+<img src="H:/music/src/main/webapp/images/c4.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+<img src="H:/music/src/main/webapp/images/v1.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+<img src="H:/music/src/main/webapp/images/v2.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+<img src="H:/music/src/main/webapp/images/c6.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+  <br><br>
+<button type="button" class="btn btn-primary">more..</button>
+</div>
+<div id="section44" class="container-fluid">
+  <h1>drums</h1>
+  <img src="H:/music/src/main/webapp/images/d1.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+<img src="H:/music/src/main/webapp/images/C10.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+<img src="H:/music/src/main/webapp/images/C11.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+<img src="H:/music/src/main/webapp/images/C9.jpg" class="img-rounded" alt="Cinque Terre" width="304" height="236">
+  <br><br>
+<button type="button" class="btn btn-primary">more..</button>
+</div>
+
+
+
+
+#section41 {padding-top:50px;height:800px;color: #fff; background-color: #ffffff;background-image: url("H:/music/src/main/webapp/images/a7.jpg");}
+  #section42 {padding-top:50px;height:800px;color: #fff; background-color: #ffffff;background-image: url("H:/music/src/main/webapp/images/b7.jpg");}
+  #section43 {padding-top:50px;height:800px;color: #fff; background-color: #ffffff;background-image: url("H:/music/src/main/webapp/images/b10.jpg");}
+  #section44 {padding-top:50px;height:800px;color: #fff; background-color: #ffffff;background-image: url("H:/music/src/main/webapp/images/b8.jpg");}
+
+
+
+<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#"> CATEGORY<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="#section41">KEY BOARD</a></li>
+              <li><a href="#section42">GUITAR</a></li>
+	      <li><a href="#section43">VIOLINE</a></li>
+	      <li><a href="#section44">DRUMS</a></li>
+
+            </ul>
+          </li>
+  
